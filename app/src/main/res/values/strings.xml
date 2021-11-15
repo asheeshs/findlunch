@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LunchTime</string>
+    <string name="filter">Filter</string>
+    <string name="search_hint">Search for a restaurant</string>
+    <string name="go_to_map_view">Map</string>
+    <string name="go_to_list_view">List</string>
+    <string name="location_alert_title">Location Needed</string>
+    <string name="location_alert_message">LunchTime needs Location permission to search restaurants.</string>
+    <string name="location_alert_grant">Grant</string>
+    <string name="location_alert_exit">Exit</string>
+</resources>
